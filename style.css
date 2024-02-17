@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+    
+
+}
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    
+    background-color: #e1f1ff;
+}
+nav{
+    background-color: #0037ff;
+    height: 80px;
+}
+nav ul li a{
+    text-decoration: none;
+    list-style: none;
+    color: rgb(255, 255, 255);
+}
+nav ul{
+    margin-right: 30vb;
+    float: right;
+    
+}
+nav ul li{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 10px;
+    
+}
+.logo{
+    width: 40px;
+    margin-left: 30vh;
+    margin-top: 10px;
+}
+nav ul li img {
+    width: 40px;
+    position: absolute;
+}
+.Top-player{
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+
+main{
+    width: 1200px;
+    margin-top: 20px;
+    margin-left: vb;
+    margin-left: 80px;
+    
+}
+.player img{
+    width: 56px;
+}
+.Top-player div{
+    display: inline-flex;
+    position: relative;
+    align-items: right;
+    padding: 10px 40px ;
+    margin-top: 10px 10px;
+    margin-left: 10px;
+}
+.player-name{
+    padding-left: 30px;
+    align-items: center;
+}
+
+span{
+    color: #0037ff;
+    margin-left: 15vb;
+}
+.top-blog img{
+    width: 40vb;
+    margin-left: 35px;
+}
+.top-blog p{
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 20px;
+}
+h2{
+    margin-top: 30px;
+}
+
